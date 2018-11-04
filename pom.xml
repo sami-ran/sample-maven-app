@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ww.sample</groupId>
-	<artifactId>sample-maven-app</artifactId>
+	<artifactId>sample-maven-app-test</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule sample-maven-app Application</name>
