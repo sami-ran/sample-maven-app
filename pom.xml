@@ -33,7 +33,7 @@
 						</goals>
 						<configuration>
 							<files>
-								<file>src/main/resources/init.properties</file>
+								<file>src/main/resources/init-${env}.properties</file>
 							</files>
 						</configuration>
 					</execution>
